@@ -1,0 +1,34 @@
+.section_4 {
+    margin: 40px;
+    
+    padding: 10px 5px;
+  }
+  
+  .section_4 .contactus {
+    text-align: center;
+    color: var(--subheading_colo);
+  }
+  .section_4 form {
+    text-align: center;
+    border-color: blue;
+  }
+  
+  .section_4 form input[placeholder] {
+    outline: none;
+    padding: 10px 20px;
+    border-radius: 10px;
+    border: 1px solid dodgerblue;
+    margin: 10px 0px;
+  }
+  
+  .section_4 form #ton{
+    width: 70px;
+    height:28px;
+      border-radius: 8px;
+      border-color: lightcyan;
+      background-color:rgb(73, 73, 221) ;
+      color:#fff;
+  }
+#heding{
+    text-align: center;
+} 

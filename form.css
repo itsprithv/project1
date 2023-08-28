@@ -1,0 +1,7 @@
+.divsec{
+    height: 600px;
+    width: 400px;
+    border: 1px;
+    background-color: aqua;
+    justify-content: left right;
+}
